@@ -1,4 +1,6 @@
 body {
+    background-image: url("finnish-femoby.jpeg");
+    background-size: cover;
     font-family: Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: bold;
     text-align: center;
@@ -37,6 +39,4 @@ button {
     max-width: 300px;
     display: block;
     margin: 20px auto;
-    background-image: url("finnish-femoby.jpeg");
-    background-size: cover;
 }
